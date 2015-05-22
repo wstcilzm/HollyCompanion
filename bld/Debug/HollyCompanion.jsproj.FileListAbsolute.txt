@@ -1,0 +1,15 @@
+c:\users\v-dzhu\documents\visual studio 2015\Projects\HollyCompanion\HollyCompanion\bin\Debug\ReverseMap\resources.pri
+c:\users\v-dzhu\documents\visual studio 2015\Projects\HollyCompanion\HollyCompanion\bin\Debug\AppxManifest.xml
+c:\users\v-dzhu\documents\visual studio 2015\Projects\HollyCompanion\HollyCompanion\bin\Debug\HollyCompanion.build.appxrecipe
+c:\users\v-dzhu\documents\visual studio 2015\Projects\HollyCompanion\HollyCompanion\bld\Debug\priconfig.xml
+c:\users\v-dzhu\documents\visual studio 2015\Projects\HollyCompanion\HollyCompanion\bld\Debug\priconfig.xml.intermediate
+c:\users\v-dzhu\documents\visual studio 2015\Projects\HollyCompanion\HollyCompanion\bld\Debug\layout.resfiles
+c:\users\v-dzhu\documents\visual studio 2015\Projects\HollyCompanion\HollyCompanion\bld\Debug\layout.resfiles.intermediate
+c:\users\v-dzhu\documents\visual studio 2015\Projects\HollyCompanion\HollyCompanion\bld\Debug\resources.resfiles
+c:\users\v-dzhu\documents\visual studio 2015\Projects\HollyCompanion\HollyCompanion\bld\Debug\resources.resfiles.intermediate
+c:\users\v-dzhu\documents\visual studio 2015\Projects\HollyCompanion\HollyCompanion\bld\Debug\pri.resfiles
+c:\users\v-dzhu\documents\visual studio 2015\Projects\HollyCompanion\HollyCompanion\bld\Debug\pri.resfiles.intermediate
+c:\users\v-dzhu\documents\visual studio 2015\Projects\HollyCompanion\HollyCompanion\bld\Debug\qualifiers.txt
+c:\users\v-dzhu\documents\visual studio 2015\Projects\HollyCompanion\HollyCompanion\bld\Debug\qualifiers.txt.intermediate
+c:\users\v-dzhu\documents\visual studio 2015\Projects\HollyCompanion\HollyCompanion\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\v-dzhu\documents\visual studio 2015\Projects\HollyCompanion\HollyCompanion\bld\Debug\ProjectArchitectures.txt
