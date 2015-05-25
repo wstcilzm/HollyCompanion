@@ -748,6 +748,7 @@
     <Content Include="images\icons-svg\video-white.svg" />
     <Content Include="js\jquery.mobile-1.4.5.js" />
     <Content Include="js\jquery.mobile-1.4.5.min.js" />
+    <Content Include="Models\Socket.js" />
     <Content Include="page.html" />
     <Content Include="Views\MainPage.html" />
     <None Include="HollyCompanion_TemporaryKey.pfx" />

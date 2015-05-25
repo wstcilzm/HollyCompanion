@@ -4,4 +4,8 @@
     <ReferenceCachePath>C:\Users\v-dzhu\AppData\Local\Temp\twhxf5zu_HollyCompanion_refcache</ReferenceCachePath>
     <ShowAllFiles>true</ShowAllFiles>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>WindowsPhoneEmulatorDebugger</DebuggerFlavor>
+    <WindowsPhoneEmulatorID>1B96E06D-AC65-47C2-A29B-4A4A60728E06;Emulator 10.0.1.0 WVGA 4 inch 512MB</WindowsPhoneEmulatorID>
+  </PropertyGroup>
 </Project>
