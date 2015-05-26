@@ -691,5 +691,6 @@ images\icons-svg\video-black.svg
 images\icons-svg\video-white.svg
 js\jquery.mobile-1.4.5.js
 js\jquery.mobile-1.4.5.min.js
+Models\Socket.js
 page.html
 Views\MainPage.html
